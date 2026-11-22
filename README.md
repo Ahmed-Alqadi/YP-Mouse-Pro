@@ -61,9 +61,9 @@
 
 | الملف | النوع | الوصف | رابط الملف |
 | :--- | :---: | :--- | :--- |
-| **`YPMousePro.apk`** | 📱 أندرويد | تطبيق الهاتف الجاهز للتثبيت على أي جهاز أندرويد | [تحميل التطبيق مباشرة](./YPMousePro.apk) |
-| **`YPMouseProServer.exe`** | 💻 ويندوز | سيرفر الكمبيوتر الجاهز والمستقل (يعمل على أي لابتوب بدون بايثون) | [تحميل السيرفر مباشرة](./YPMouseProServer.exe) |
-| **`تشغيل_السيرفر.bat`** | ⚙️ ملف تشغيل | اختصار لتشغيل السيرفر بنقرة زر واحدة | [تحميل ملف التشغيل](./تشغيل_السيرفر.bat) |
+| **`YPMousePro.apk`** | 📱 أندرويد | تطبيق الهاتف الجاهز للتثبيت على أي جهاز أندرويد | [📥 تحميل التطبيق مباشرة (APK)](https://github.com/Ahmed-Alqadi/YP-Mouse-Pro/releases/download/v2.5.0/YPMousePro.apk) |
+| **`YPMouseProServer.exe`** | 💻 ويندوز | سيرفر الكمبيوتر الجاهز والمستقل (يعمل على أي لابتوب بدون بايثون) | [📥 تحميل السيرفر مباشرة (EXE)](https://github.com/Ahmed-Alqadi/YP-Mouse-Pro/releases/download/v2.5.0/YPMouseProServer.exe) |
+| **`تشغيل_السيرفر.bat`** | ⚙️ ملف تشغيل | اختصار لتشغيل السيرفر بنقرة زر واحدة | [📥 تحميل ملف التشغيل](https://github.com/Ahmed-Alqadi/YP-Mouse-Pro/releases/download/v2.5.0/%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D9%81%D8%B1.bat) |
 
 ---
 
